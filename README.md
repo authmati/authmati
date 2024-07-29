@@ -1,4 +1,4 @@
-# 🌟 Mati - Estudiante Universitario y Programador Principiante 🌟
+# 🌟 Mati - Estudiante Universitario y Programador Principiante
 
 Soy un estudiante universitario apasionado por la programación y vivir la vida con pasión. Actualmente, estoy aprendiendo Python y trabajando en la creación de un bot de Discord como pasatiempo. ¡Bienvenido a mi rincón en GitHub!
 
