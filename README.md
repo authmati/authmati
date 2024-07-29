@@ -1,30 +1,40 @@
-# Discord Bot - Tu Bot Nombre
+# 🌟 Mati - Estudiante Universitario y Programador Principiante 🌟
 
-![License](https://img.shields.io/github/license/tu-usuario/tu-repositorio)
-![Issues](https://img.shields.io/github/issues/tu-usuario/tu-repositorio)
-![Stars](https://img.shields.io/github/stars/tu-usuario/tu-repositorio)
-![Forks](https://img.shields.io/github/forks/tu-usuario/tu-repositorio)
+![Anime Banner]([https://i.imgur.com/Q5w9d5k.jpg](https://i.imgur.com/HI28bM4.jpeg))
 
-¡Bienvenido a **Tu Bot Nombre**! Este es un bot de Discord diseñado para mejorar la experiencia de tu servidor con comandos divertidos y útiles.
+## 👋 ¡Hola! Soy Mati
 
-## Características
+Soy un estudiante universitario apasionado por la programación y vivir la vida con pasión. Actualmente, estoy aprendiendo Python y trabajando en la creación de un bot de Discord como pasatiempo. ¡Bienvenido a mi rincón en GitHub!
 
+## 🌸 Sobre Mí
+
+- 📚 **Estudios**: Actualmente estoy cursando mi carrera universitaria.
+- 💻 **Intereses en programación**: Desarrollo de bots y aprender nuevas tecnologías.
+- 🎨 **Pasatiempos**: Ver anime, leer mangas/manhwas y novelas, y disfrutar de videos en YouTube.
+- 🎯 **Metas**: Lograr dirigir una empresa y tener una noción más clara sobre la programación.
+
+## 🚀 Proyectos
+
+### 🎮 Bot de Discord
+
+Mi proyecto principal es un bot de Discord que estoy desarrollando para aprender Python y como un pasatiempo divertido.
+
+**Características**:
 - **Comandos híbridos**: Usa comandos tanto con prefijos como con barra diagonal.
 - **Moderación**: Herramientas para mantener tu servidor seguro y ordenado.
-- **Diversión**: Juegos y comandos divertidos para entretener a tus miembros.
 - **Utilidades**: Comandos útiles para obtener información y gestionar tareas.
 
-## Instalación
+## 🛠️ Habilidades
 
-Sigue estos pasos para instalar y ejecutar el bot en tu servidor:
+- **Lenguajes de Programación**:
 
-1. Clona este repositorio:
-   ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+- **Herramientas y Tecnologías**:
 
-# Hola, mi nombre es Mati 😎
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matiiasayala) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EnderRevenge) 
+## 🌟 Gracias por Visitar
 
-# 💻 Aprendiendo:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+¡Gracias por visitar mi perfil de GitHub!
+
+![Anime Footer](https://i.imgur.com/4MIi5sP.png)
