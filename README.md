@@ -1,11 +1,11 @@
 # 🌟 Mati - Estudiante Universitario y Programador Principiante
 
-Soy un estudiante universitario apasionado por la tecnología e interesado en la programación. Actualmente, estoy cursando una licenciatura en administración empresarial y estudiando Python como un interés secundario. En mi tiempo libre, trabajo en la creación de un bot de Discord y exploro nuevas tecnologías. ¡Bienvenido a mi rincón en GitHub!
+Soy un estudiante universitario apasionado por la tecnología e interesado en la programación. Actualmente, estoy cursando una licenciatura en administración empresarial y estudio Python, HTML y CSS como intereses secundarios. En mi tiempo libre, trabajo en la creación de un bot de Discord y exploro nuevas tecnologías.
 
 ## 🌸 Sobre Mí
 
 - 📚 Estudios: Actualmente estoy cursando una licenciatura en administración empresarial y, además, estudio programación como un interés secundario debido a mi pasión por la tecnología desde pequeño.
-- 💻 Intereses en programación: Me interesa el desarrollo de bots, aprender nuevas tecnologías y explorar diversas aplicaciones de la programación.
+- 💻 Intereses en programación: Aunque actualmente mi base puede no ser sólida, mi objetivo es construir una base suficiente para poder hablar con seguridad sobre el tema, mientras exploro nuevas tecnologías y descubro formas innovadoras de aplicar la programación para simplificar procesos y resolver problemas.
 - 🎨 **Pasatiempos**: Ver anime, leer mangas/manhwas y novelas, y disfrutar de videos en YouTube.
 - 🎯 Metas: Aspiro a dirigir una empresa exitosamente y adquirir una comprensión más profunda de la programación para integrar soluciones tecnológicas innovadoras, fomentando un enfoque orientado a resolver problemas mediante el uso de las últimas tecnologías.
 
