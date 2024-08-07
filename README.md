@@ -1,19 +1,19 @@
 # 🌟 Mati - Estudiante Universitario y Programador Principiante
 
-Soy un estudiante universitario apasionado por la programación y vivir la vida con pasión. Actualmente, estoy aprendiendo Python y trabajando en la creación de un bot de Discord como pasatiempo. ¡Bienvenido a mi rincón en GitHub!
+Soy un estudiante universitario apasionado por la tecnología e interesado en la programación. Actualmente, estoy cursando una licenciatura en administración empresarial y estudiando Python como un interés secundario. En mi tiempo libre, trabajo en la creación de un bot de Discord y exploro nuevas tecnologías. ¡Bienvenido a mi rincón en GitHub!
 
 ## 🌸 Sobre Mí
 
-- 📚 **Estudios**: Actualmente estoy cursando mi carrera universitaria.
-- 💻 **Intereses en programación**: Desarrollo de bots y aprender nuevas tecnologías.
+📚 Estudios: Actualmente estoy cursando una licenciatura en administración empresarial y, además, estudio programación como un interés secundario debido a mi pasión por la tecnología desde pequeño.
+💻 Intereses en programación: Me interesa el desarrollo de bots, aprender nuevas tecnologías y explorar diversas aplicaciones de la programación.
 - 🎨 **Pasatiempos**: Ver anime, leer mangas/manhwas y novelas, y disfrutar de videos en YouTube.
-- 🎯 **Metas**: Lograr dirigir una empresa y tener una noción más clara sobre la programación.
+🎯 Metas: Aspiro a dirigir una empresa exitosamente y adquirir una comprensión más profunda de la programación para integrar soluciones tecnológicas innovadoras, fomentando un enfoque orientado a resolver problemas mediante el uso de las últimas tecnologías.
 
 ## 🚀 Proyectos
 
 ### 🎮 Bot de Discord
 
-Mi proyecto principal es un bot de Discord que estoy desarrollando para aprender Python y como un pasatiempo divertido.
+Mi proyecto principal es un bot de Discord que estoy desarrollando tanto para aprender Python como para disfrutar de un pasatiempo creativo y desafiante.
 
 **Características**:
 - **Comandos híbridos**: Usa comandos tanto con prefijos como con barra diagonal.
@@ -24,10 +24,11 @@ Mi proyecto principal es un bot de Discord que estoy desarrollando para aprender
 
 - **Lenguajes de Programación**:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - **Herramientas y Tecnologías**:
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ## 🌟 Gracias por Visitar
 
