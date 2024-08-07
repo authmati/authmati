@@ -4,10 +4,10 @@ Soy un estudiante universitario apasionado por la tecnología e interesado en la
 
 ## 🌸 Sobre Mí
 
-📚 Estudios: Actualmente estoy cursando una licenciatura en administración empresarial y, además, estudio programación como un interés secundario debido a mi pasión por la tecnología desde pequeño.
-💻 Intereses en programación: Me interesa el desarrollo de bots, aprender nuevas tecnologías y explorar diversas aplicaciones de la programación.
+- 📚 Estudios: Actualmente estoy cursando una licenciatura en administración empresarial y, además, estudio programación como un interés secundario debido a mi pasión por la tecnología desde pequeño.
+- 💻 Intereses en programación: Me interesa el desarrollo de bots, aprender nuevas tecnologías y explorar diversas aplicaciones de la programación.
 - 🎨 **Pasatiempos**: Ver anime, leer mangas/manhwas y novelas, y disfrutar de videos en YouTube.
-🎯 Metas: Aspiro a dirigir una empresa exitosamente y adquirir una comprensión más profunda de la programación para integrar soluciones tecnológicas innovadoras, fomentando un enfoque orientado a resolver problemas mediante el uso de las últimas tecnologías.
+- 🎯 Metas: Aspiro a dirigir una empresa exitosamente y adquirir una comprensión más profunda de la programación para integrar soluciones tecnológicas innovadoras, fomentando un enfoque orientado a resolver problemas mediante el uso de las últimas tecnologías.
 
 ## 🚀 Proyectos
 
