@@ -1,23 +1,7 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h1 align="left"><b>Hola , soy Mati </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Soy un estudiante universitario apasionado por la tecnología e interesado en la programación. Actualmente, estoy cursando una licenciatura en administración empresarial y estudio Programación como interés secundario. En mi tiempo libre, trabajo en la creación de un bot de Discord con Python.
-
-## Sobre Mí
-
-- **Estudios:** Actualmente estoy cursando una licenciatura en administración empresarial y, además, estudio programación como un interés secundario debido a mi pasión por la tecnología desde pequeño.
-- **Intereses en programación:** Aunque actualmente mi base puede no ser sólida, mi objetivo es construir una base suficiente para poder hablar con seguridad sobre el tema, mientras exploro nuevas tecnologías y descubro formas innovadoras de aplicar la programación para simplificar procesos y resolver problemas.
-- **Pasatiempos**: Ver anime, leer mangas/manhwas y novelas, y disfrutar de videos en YouTube.
-
-## Proyectos
-
-### Bot de Discord
-
-Mi proyecto principal es un bot de Discord que estoy desarrollando tanto para aprender Python como para disfrutar de un pasatiempo creativo y desafiante.
-
-**Características**:
-- **Comandos híbridos**: Usa comandos tanto con prefijos como con barra diagonal.
-- **Moderación**: Herramientas para mantener tu servidor seguro y ordenado.
-- **Utilidades**: Comandos útiles para obtener información y gestionar tareas.
+Soy un estudiante universitario apasionado por la tecnología e interesado en la programación. Actualmente, estoy cursando una licenciatura en administración empresarial y estudio programación como interés secundario.
 
 ## Habilidades
 
@@ -32,5 +16,6 @@ Mi proyecto principal es un bot de Discord que estoy desarrollando tanto para ap
 ## Gracias por Visitar
 
 ¡Gracias por visitar mi perfil de GitHub!
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
