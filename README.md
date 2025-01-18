@@ -2,6 +2,27 @@
 
 Soy un estudiante universitario apasionado por la tecnología e interesado en la programación. Actualmente, estoy cursando una licenciatura en administración empresarial y estudio programación como interés secundario.
 
+## Predicción del día
+
+A veces, un poco de humor nunca viene mal. Aquí te dejo una predicción aleatoria para tu día, generada con un sencillo script en Python:
+
+```python
+import random
+
+# Función para predecir el día
+def prediccion():
+    predicciones = [
+        "Hoy será un gran día para ver anime. ¡Disfruta de un maratón!",
+        "Tu día estará lleno de diversión. ¡Aprovecha cada momento!",
+        "Este es un excelente día para aprender algo nuevo.",
+        "Hoy es el día perfecto para sumergirse en una novela interesante."
+    ]
+    print(random.choice(predicciones))
+
+# Llamar a la función
+prediccion()
+```
+
 ## Habilidades
 
 - **Conocimientos Técnicos**:
