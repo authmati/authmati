@@ -7,6 +7,8 @@ Soy un estudiante universitario apasionado por la tecnología e interesado en la
 A veces, un poco de humor nunca viene mal. Aquí te dejo una predicción aleatoria para tu día, generada con un sencillo script en Python:
 
 ```python
+# 마티
+
 import random
 
 # Función para predecir el día
@@ -21,6 +23,8 @@ def prediccion():
 
 # Llamar a la función
 prediccion()
+
+# 오늘 하루도 멋진 하루가 될 거에요!
 ```
 
 ## Habilidades
