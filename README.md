@@ -1,6 +1,6 @@
 <h1 align="left"><b>Hola , soy Mati </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Soy un estudiante universitario apasionado por la tecnología e interesado en la programación. Actualmente, estoy cursando una licenciatura en administración empresarial y estudio programación como interés secundario.
+Soy un estudiante universitario apasionado por la tecnología y la programación, que es mi hobby en mis tiempos libres, para matar el tiempo o simplemente por diversión. Actualmente, estoy cursando una licenciatura en administración empresarial, pero la programación la disfruto como hobby y la estudio por interés personal.
 
 ## Predicción del día
 
